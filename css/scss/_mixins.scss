@@ -1,0 +1,38 @@
+@mixin headline ($size) {
+	font-family: $f-heading;
+	text-transform: uppercase;
+	font-weight: 700;
+	text-align: center;
+	font-size: $size;
+}
+
+@mixin subheading ($size) {
+	font-family: $f-subheading;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: $size;
+	line-height: 1.5em;
+}
+
+@mixin giftImages {
+	border: 2px $c-red solid;
+	width: 250px;
+	height: 250px;
+}
+
+@mixin dayBox {
+	display: flex;
+	margin: 20px 50px;
+	flex-direction: column; 
+	width: 20%;
+}
+
+@mixin steveBox {
+	display: flex;
+	margin: 50px;
+	color: white;
+}
+
+@mixin hide {
+	display: none;
+}
