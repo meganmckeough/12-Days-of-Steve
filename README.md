@@ -4,4 +4,6 @@
 
 For lovers of *Stranger Things*; Steve Harrington's hair; the 80s; character evolution; Christmas and web development. Unwrap a Steve per day in the lead up to Christmas (or just because). 
 
-Made in 2017 with Javascript (jQuery), HTML, and CSS (SASS).
+Made in 2017 with Javascript (jQuery), HTML, and CSS (SCSS).
+
+A little front-end Christmas project made with basic front-end skills, powered by Netflix. 
